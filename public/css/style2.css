@@ -1,0 +1,97 @@
+h1 {
+    color: #0f6e27;
+    text-align: center;
+
+}
+
+h2 {
+    color: #308ea5;
+
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th,
+td {
+    border: 1px solid #00ffff;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #a0a0a0;
+}
+
+input,
+select {
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0;
+    box-sizing: border-box;
+    background-color: #b3b3b3;
+    border-radius: 7px;
+}
+
+
+
+.form-group {
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+label {
+    display: block;
+    text-align: left;
+    margin-bottom: 5px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+input,
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    box-sizing: border-box;
+    background-color: #b3b3b3;
+    border-radius: 7px;
+    border: 1px solid #00aeff;
+    text-align: left;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 5px 15px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    margin: 10px;
+    float: left;
+
+}
+
+button:hover {
+    background-color: #45a049;
+    color: #09071d;
+    transform: scale(0.99);
+}
+
+.section {
+    background-color: transparent;
+    padding: 20px;
+
+    margin-top: 20px;
+    border-radius: 5px;
+    color: aliceblue;
+}
+
+.searchBar {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
